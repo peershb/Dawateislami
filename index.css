@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menubar{
+    text-align: center;
+    background-color: darkslategrey;
+    color: white;
+    
+    }
+.navbar{
+    background-color: darkslategray;
+    color: white;
+    list-style: none;
+   
+}
+ul{
+    list-style: none;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 15px;
+    cursor: pointer;
+    
+}
+li:hover{
+    background-color: chocolate;
+    color: coral;
+}
+.madnilogo{
+    float: left;
+}
+.mininav{
+    background-color: lightgrey;
+    
+}
+#madni{
+    background-color: green;
+    border: 1px solid darkgreen;
+    border-radius: 12px;
+    margin-left: 25%;
+    padding: 15px;
+}
+#madni1{
+    border: 1px solid grey;
+    padding: 15px;
+    margin-left: 20px;
+}
+#madni2{
+    border: 1px solid grey;
+    padding: 15px;
+}
+#madni:hover{
+    background-color: white;
+    color: black;
+}
+#madni1:hover{
+    background-color: white;
+    color: black;
+}
+#madni2:hover{
+    background-color: white;
+    color: black;
+}
+#haji{
+    margin-bottom:250px ;
+}
+.txt{
+    float: right;
+    
+}
+.p{
+    width: 80px;
+}
